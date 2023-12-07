@@ -1,5 +1,5 @@
 # Message Board 💬👩🏻‍💻
-Hello! Welcome to my C4C technical application!
+Hello! Welcome to my C4C technical application! :)
 
 # How to open 📂
 To see what I've prepared for you, please clone the repository and open in an environment such as VSCode. Here you will be able to see my code, and also by copying the path for the "login.html" file, you will be able to view the project in a browser.
