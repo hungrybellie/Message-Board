@@ -20,7 +20,7 @@ Unfortunately, due to many final assignments that were due in this same week, I 
 
 # Tech Stack 💻
 
-My project was coded in html, css and JavaScript.
+My project was coded in HTML, CSS and JavaScript.
 
 # Thank you! 🥳
 
