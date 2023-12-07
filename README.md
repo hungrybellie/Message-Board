@@ -12,7 +12,7 @@ Unfortunately, due to many final assignments that were due in this same week, I 
 
 - To mimic the last requirement I made use of local storage to make messages that you post persistent. So, even if you refresh or close the page, the messages you posted will still be there.
 - I utilized a warm, neutral color pallete, along with a cute, cozy design. I intended for this to create a safe environment for users to feel comfortable with posting.
-- The login screen is static, however if you press the "go!" button, you will be able to get to the message board screen.
+- I implemented a simple login screen and although it is static, if you press the "go!" button, you will be able to get to the message board screen.
 - The password text input allows sensitive information to stay private.
 - The messages appear on the board in order of most recent to least recent.
 - Text inputs get darker when pressed to help with accessibility.
