@@ -4,7 +4,7 @@ const textInput = document.getElementById('message');
 const messageArea = document.getElementById('content');
 
 function addMessage() {
-    if (textInput.value === '' || textInput.value.length === 128 ) {
+    if (textInput.value === '' || textInput.value.length >= 128) {
         alert("Your message must not be empty or over 128 words long.");
     } else {
         let messageCard = document.createElement("SPAN");
@@ -17,7 +17,6 @@ function addMessage() {
 
 function saveMessages() {
     localStorage.setItem("persistMessages", messageArea.innerHTML);
-    // localStorage.clear();
 }
 
  function showMessages() {
