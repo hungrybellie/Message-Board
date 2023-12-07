@@ -2,7 +2,7 @@
 Hello! Welcome to my C4C technical application! :)
 
 # How to open 📂
-To see what I've prepared for you, please clone the repository and open in an environment such as VSCode. Here you will be able to see my code, and also by copying the path for the "login.html" file, you will be able to view the project in a browser.
+To see what I've prepared for you, please clone the repository and open in an environment such as VSCode. Here you will be able to see my code, and also by copying the path for the "login.html" file and pasting into a browser, you will be able to view and interact with the project.
 
 # Features 🪄
 
@@ -20,3 +20,6 @@ Unfortunately, due to many final assignments that were due in this same week, I 
 
 My project was coded in html, css and JavaScript.
 
+# Thank you! 🥳
+
+Thank you so much for considering me as a C4C applicant, I really appreciate your time! Please have a great day or night! 🫶
