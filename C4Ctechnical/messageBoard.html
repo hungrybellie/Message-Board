@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="messageBoard.css" />
+  <title>Message Board</title>
+</head>
+
+<body>
+  <br />
+  <br />
+
+  <div class="container">
+    <div class="heading">
+      <span> Community (´｡• ᵕ •｡`) ♡ </span>
+    </div>
+
+    <br />
+    <br />
+
+
+    <div class="inputCard">
+      <div class="inputButtonRow">
+        <input type="text" id="message" class="inputBox" />
+        <div>
+          <button class="sendButton" id="send" onclick="addMessage()">send!</button>
+        </div>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="messageArea" id="content">
+      
+    </div>
+
+  </div>
+
+  <br />
+  <br />
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
