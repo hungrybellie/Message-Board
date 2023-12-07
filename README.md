@@ -4,6 +4,8 @@ Hello! Welcome to my C4C technical application! :)
 # How to open 📂
 To see what I've prepared for you, please clone the repository and open in an environment such as VSCode. Here you will be able to see my code, and also by copying the path for the "login.html" file and pasting into a browser, you will be able to view and interact with the project.
 
+Once at the log in screen, press the "go!" button to get to the message board.
+
 # Features 🪄
 
 Unfortunately, due to many final assignments that were due in this same week, I could not meet the last requirement of the MVP. However, I have implemented a few extra pieces of flourish that I hope will make up for that!
